@@ -153,7 +153,7 @@ footer .card {
     width: 100%;
     cursor: pointer;
     margin-bottom: 10px;
-    height: 70px;
+    height: auto;
     color: #fff;
     box-shadow: 0px 0px 5px rgb(255, 255, 255, 90%);
     border-radius: 5px;
