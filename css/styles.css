@@ -168,9 +168,9 @@ footer .card:hover {
 }
 
 footer .card .thumbnail {
-    width: 70px;
+    max-width: 100px;
     border-radius: 5px 0px 0px 5px;
-    height: 70px;
+    height: 100%;
 }
 
 footer .card .thumbnail img {
@@ -196,7 +196,7 @@ footer .card .body .tags .tag {
     font-weight: 600;
     background: var(--color-green);
     padding: 2px 4px;
-    margin: 0px 5px;
+    margin: 5px;
     border-radius: 5px;
 }
 
